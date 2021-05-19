@@ -1,0 +1,14 @@
+{
+  "name": "basic_node_server",
+  "version": "1.0.0",
+  "description": "* USE NPM TO CREATE NODE MODULE     * Create a package.json file in project's home directory         * Using terminal change to project home directory         * Run npm init         * Fill in form in terminal             * my default entry point file name is server.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Yang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

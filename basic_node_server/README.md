@@ -15,4 +15,6 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/develo
         * Add responsive web code: <meta name="viewport" content="width=device-width, initial-scale=1.0">
         * Add pointer to javascript (my default file name is app.js): <script src="app.js"></script>
     * Create 'app.js' file
+    * Add mainstylesheet.css
+        * Add link to Lato font in index.html and link to mainstylesheet.css
     
